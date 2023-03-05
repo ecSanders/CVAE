@@ -1,0 +1,6 @@
+IPython
+imageio
+matplotlib
+numpy
+tensorflow
+tensorflow_probability
